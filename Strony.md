@@ -16,8 +16,6 @@
 | [**Language**](#language)<br/>|
 | [**Translations**](#translations)<br/>|
 
-| Opublikuj |
-| ------- |
 
 ------
 
